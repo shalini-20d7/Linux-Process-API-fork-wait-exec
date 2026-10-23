@@ -43,8 +43,6 @@ int main(void)
 ```
 ##OUTPUT
 
-
-
 <img width="932" height="543" alt="Screenshot 2026-10-21 212107" src="https://github.com/user-attachments/assets/300c5f24-7c08-460e-b81d-7e4cb717e9df" />
 
 
